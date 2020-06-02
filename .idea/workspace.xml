@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="310b2210-c5e2-47a7-b138-025aac9b9a2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/DbConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/response.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/statics/ro.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/layouts/MainLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/layouts/MainLayout.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/Admin/Home/DataBarang.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/pages/Admin/Home/DataBarang.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/Admin/Home/DataPembeli.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/pages/Admin/Home/DataPembeli.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/Admin/Home/Menu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/pages/Admin/Home/Menu.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/Admin/Home/TransaksiPenjualan.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/pages/Admin/Home/TransaksiPenjualan.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/Pembeli/DataBarang/hubungikami.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/pages/Pembeli/DataBarang/hubungikami.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/Pembeli/Transaksi/TransaksiPembeli.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/pages/Pembeli/Transaksi/TransaksiPembeli.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/users/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/pages/users/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/router/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/router/routes.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1cipjQFUZXaOtIR4BBsBw8QevKk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="310b2210-c5e2-47a7-b138-025aac9b9a2f" name="Default Changelist" comment="" />
+      <created>1591021404121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591021404121</updated>
+      <workItem from="1591021415855" duration="6254000" />
+      <workItem from="1591062355871" duration="7758000" />
+      <workItem from="1591070654942" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591021886285">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1591021886285" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1591070679074">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591070679074" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1591026980404">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591026980404" />
+  </component>
+</project>
